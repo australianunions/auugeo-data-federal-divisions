@@ -3,7 +3,7 @@
     "type": "FeatureCollection",
     "features": [
         {
-            "id": "05ce5e6f-87a3-53ca-9c29-c465399adc06",
+            "id": "8b4c6d34-1779-5d7e-9930-5fb63e0b0ca2",
             "type": "Feature",
             "geometry": {
                 "type": "Polygon",
@@ -6784,10 +6784,6 @@
                         [
                             145.060837,
                             -37.729779
-                        ],
-                        [
-                            145.060527,
-                            -37.731612
                         ],
                         [
                             145.060847,
